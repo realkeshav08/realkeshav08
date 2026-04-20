@@ -1,6 +1,13 @@
 <p align="center"> <img src="https://github.com/realkeshav08/realkeshav08/blob/main/Header.gif?raw=true" alt="GIF showcase" width=wrap_content/> </p>
 <h1 align="center">Hi there, I'm Keshav Kashyap👋</h1>
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=I+am+a+Full-Stack+Developer;I+am+a+Data+Science+Engineer;I+am+a+AI/ML+Enthusiast" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=realkeshav08&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
 
 
 <!--## Hi there 👋-->
