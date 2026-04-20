@@ -10,10 +10,15 @@
 </p>
 
 ## 🚀 About Me
-🧑‍🎓 I'm Keshav Kashyap from Kota — a *Computer Science & Engineering undergrad at IIIT Kota* and alumnus of *RSV Higher Secondary School, driven by curiosity and a strong focus on building impactful tech solutions
-💡 Passionate about *Full-Stack Development*, *AI/ML*, *Data Science* and crafting scalable digital products
-💻 Experienced in *Modern web technologies*, *Real-world SaaS development*, and *Dynamic user-focused applications*
-📈 Actively working on production-ready projects, blending clean UI/UX with practical functionality and performance
+
+🧑‍🎓 I'm Keshav Kashyap from Kota — a *Computer Science & Engineering undergrad at IIIT Kota* and an alumnus of *RSV Higher Secondary School*, driven by curiosity and a strong focus on building impactful tech solutions  
+
+💡 Passionate about *Full-Stack Development*, *AI/ML*, and *Data Science*, with a keen interest in crafting scalable digital products  
+
+💻 Experienced in *Modern Web Technologies*, *Real-world SaaS Development*, and *Dynamic, User-Focused Applications*  
+
+📈 Actively working on *production-ready projects*, blending clean UI/UX with practical functionality and performance  
+
 🚀 A builder mindset — constantly learning, experimenting, and turning ideas into working products
 
 <!--## Hi there 👋-->
